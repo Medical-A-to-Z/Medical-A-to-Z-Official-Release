@@ -3,6 +3,9 @@
 Medical A to Z is proprietary software owned by Seyed Omid Seyed Hosseini.  
 The source code of the app is confidential and not provided to the public.
 
+For permission requests or inquiries, contact:  
+omid.hosseini.uni@gmail.com
+
 By downloading, installing, or using the app, you agree to the following terms:
 
 # **1. Grant of Use**  
@@ -23,5 +26,4 @@ The copyright holder shall not be liable for any damages arising from the use or
 This license will terminate automatically if you fail to comply with any of its terms.  
 Upon termination, you must cease all use of the app and delete all copies in your possession.
 
-For permission requests or inquiries, contact:  
-omid.hosseini.uni@gmail.com
+
