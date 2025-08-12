@@ -1,5 +1,5 @@
 # **Medical A to Z**
-Medical A to Z is a forever-free medical dictionary android (phones, tablets, foldables) app created to aid students and researchers in medical fields in quickly finding definitions of prefixes, suffixes, and abbreviations used in medical fields.
+Medical A to Z is a forever-free medical dictionary android (phones, tablets, foldables from android 5.0 to 16.0) app created to aid students and researchers in medical fields in quickly finding definitions of prefixes, suffixes, and abbreviations used in medical fields.
 
 By using Medical A to Z, it is much easier to find prefixes and suffixes used in medical fields. Moreover, each prefix and suffix has a definition, several examples and their meanings, and read-aloud buttons to pronounce each word using the TTS engine of your phone! This provides medical researchers and students to quickly and efficiently find the information they need with minimal loss of time and focus.
 
