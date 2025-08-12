@@ -1,4 +1,4 @@
-#**Medical A to Z**
+# **Medical A to Z**
 Medical A to Z is a forever-free medical dictionary android app created to aid students and researchers in medical fields in quickly finding definitions of prefixes, suffixes, and abbreviations used in medical fields.
 
 By using Medical A to Z, it is much easier to find prefixes and suffixes used in medical fields. Moreover, each prefix and suffix has a definition, several examples and their meanings, and read-aloud buttons to pronounce each word using the TTS engine of your phone! This provides medical researchers and students to quickly and efficiently find the information they need with minimal loss of time and focus.
@@ -8,14 +8,13 @@ Also, Medical A to Z includes a full list of abbreviations commonly used in labo
 With a clean and minimal UI optimized to keep your focus intact, Medical A to Z is your companion for your journey in learning and using laboratory sciences data!
 
 
-#**Screenshots**
- <img width="2343" height="5234" alt="Main" src="https://github.com/user-attachments/assets/776f01d1-ac92-4673-8942-7370186ed9b3" />
-<img width="2343" height="5246" alt="Prefix Suffix" src="https://github.com/user-attachments/assets/f5eeb7ef-6728-415d-8bef-df79c8ea1790" />
-<img width="2344" height="5234" alt="Abbreviations" src="https://github.com/user-attachments/assets/cff20f03-5632-440b-8453-1718103f3a99" />
-<img width="2336" height="5240" alt="Settings" src="https://github.com/user-attachments/assets/150eddcf-6aef-4829-a75c-0eed45bab992" />
+# **Screenshots**
+<img width="2343" height="5234" alt="Main" src="https://github.com/user-attachments/assets/776f01d1-ac92-4673-8942-7370186ed9b3" /><img width="2343" height="5246" alt="Prefix Suffix" src="https://github.com/user-attachments/assets/f5eeb7ef-6728-415d-8bef-df79c8ea1790" />
+<img width="2344" height="5234" alt="Abbreviations" src="https://github.com/user-attachments/assets/cff20f03-5632-440b-8453-1718103f3a99" /><img width="2336" height="5240" alt="Settings" src="https://github.com/user-attachments/assets/150eddcf-6aef-4829-a75c-0eed45bab992" />
 
 
-#**Resources**
+
+# **Resources**
 1. Jalil Rashedi, Behroz MahdaviPoor, Elham Ghadirkhoml, Niki Maleki, Fatemeh Valizad, Asra Poorghani, Vahid Asgharzadeh, Understanding Common Medical Terminology and Medical Diagnostic Laboratory Abbreviations, The Academic Center for Education Culture & Research of East Azerbaijan, Iran, 2024, ISBN: 978-600-460-987-6
 2. Mc Pherson RA, et al. Henry's clinical diagnosis and management by laboratory methods, E-book. Elsevier Health Sciences; 2022.
 3. Cohen BJ, et al. Medical Terminology: An Illustrated Guide: An Illustrated Guide. Jones & Bartlett Learning; 2020.
