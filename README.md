@@ -14,7 +14,7 @@ With a clean and minimal UI optimized to keep your focus intact, Medical A to Z 
 
 <br /><br />
 
-# **Resources**
+# **Compatibility**
 Medical A to Z is an android app that supports android versions from 5.0 to 16.0, optimized for all android-based devices such as phones, tablets, and foldables.
 
 <br /><br />
