@@ -7,8 +7,6 @@ Also, Medical A to Z includes a full list of abbreviations commonly used in labo
 
 With a clean and minimal UI optimized to keep your focus intact, Medical A to Z is your companion for your journey in learning and using laboratory sciences data!
 
-<br /><br />
-
 ## **Find us in LinkedIn**
 [Developer](https://www.linkedin.com/in/seyed-omid-seyed-hosseini-38b3531b9/)<br />
 [Contact Author](https://www.linkedin.com/in/asra-poorghani-579363376/)
