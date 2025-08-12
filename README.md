@@ -10,7 +10,7 @@ With a clean and minimal UI optimized to keep your focus intact, Medical A to Z 
 <br /><br />
 
 ## **Find us in LinkedIn**
-[Developer](https://www.linkedin.com/in/seyed-omid-seyed-hosseini-38b3531b9/)
+[Developer](https://www.linkedin.com/in/seyed-omid-seyed-hosseini-38b3531b9/)<br />
 [Contact Author](https://www.linkedin.com/in/asra-poorghani-579363376/)
 
 
