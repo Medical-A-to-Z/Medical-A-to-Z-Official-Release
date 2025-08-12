@@ -7,12 +7,20 @@ Also, Medical A to Z includes a full list of abbreviations commonly used in labo
 
 With a clean and minimal UI optimized to keep your focus intact, Medical A to Z is your companion for your journey in learning and using laboratory sciences data!
 
+<br /><br />
 
 # **Screenshots**
-<img width="2343" height="5234" alt="Main" src="https://github.com/user-attachments/assets/776f01d1-ac92-4673-8942-7370186ed9b3" /><img width="2343" height="5246" alt="Prefix Suffix" src="https://github.com/user-attachments/assets/f5eeb7ef-6728-415d-8bef-df79c8ea1790" />
-<img width="2344" height="5234" alt="Abbreviations" src="https://github.com/user-attachments/assets/cff20f03-5632-440b-8453-1718103f3a99" /><img width="2336" height="5240" alt="Settings" src="https://github.com/user-attachments/assets/150eddcf-6aef-4829-a75c-0eed45bab992" />
+<p float="left">
+ <img width="2343" height="5234" alt="Main" src="https://github.com/user-attachments/assets/776f01d1-ac92-4673-8942-7370186ed9b3" />
+ <img width="2343" height="5246" alt="Prefix Suffix" src="https://github.com/user-attachments/assets/f5eeb7ef-6728-415d-8bef-df79c8ea1790" />
+</p>
+<p float="left">
+<img width="2344" height="5234" alt="Abbreviations" src="https://github.com/user-attachments/assets/cff20f03-5632-440b-8453-1718103f3a99" />
+<img width="2336" height="5240" alt="Settings" src="https://github.com/user-attachments/assets/150eddcf-6aef-4829-a75c-0eed45bab992" />
+</p>
 
 
+<br /><br />
 
 # **Resources**
 1. Jalil Rashedi, Behroz MahdaviPoor, Elham Ghadirkhoml, Niki Maleki, Fatemeh Valizad, Asra Poorghani, Vahid Asgharzadeh, Understanding Common Medical Terminology and Medical Diagnostic Laboratory Abbreviations, The Academic Center for Education Culture & Research of East Azerbaijan, Iran, 2024, ISBN: 978-600-460-987-6
