@@ -20,7 +20,7 @@ With a clean and minimal UI optimized to keep your focus intact, Medical A to Z 
 <br /><br />
 
 # **Resources**
-Note: Reference number 1 is a collaborative gathering of the information provided by the rest of the references below. If you wish to use the provided information in academic papers and documents, please make sure you cite the main reference (number 1) as it already uses and cites the references below it.
+Note: Reference #1 is a collaborative compilation of the information found in the other references listed below. If you use any information from this application in academic papers or documents, please cite Reference #1. It already incorporates and cites the other references, so you do not need to cite them unless you have consulted them directly.
 
 1. Jalil Rashedi, Behroz MahdaviPoor, Elham Ghadirkhoml, Niki Maleki, Fatemeh Valizad, Asra Poorghani, Vahid Asgharzadeh, Understanding Common Medical Terminology and Medical Diagnostic Laboratory Abbreviations, The Academic Center for Education Culture & Research of East Azerbaijan, Iran, 2024, ISBN: 978-600-460-987-6
 2. Mc Pherson RA, et al. Henry's clinical diagnosis and management by laboratory methods, E-book. Elsevier Health Sciences; 2022.
