@@ -11,7 +11,10 @@ With a clean and minimal UI optimized to keep your focus intact, Medical A to Z 
 
 # **Screenshots**
 
-<div class="grid" markdown>
+
+| ![Image 1](https://github.com/user-attachments/assets/776f01d1-ac92-4673-8942-7370186ed9b3) | ![Image 2](https://github.com/user-attachments/assets/f5eeb7ef-6728-415d-8bef-df79c8ea1790) |
+|------------------------------------------|------------------------------------------|
+| ![Image 3](https://github.com/user-attachments/assets/cff20f03-5632-440b-8453-1718103f3a99) | ![Image 4](https://github.com/user-attachments/assets/150eddcf-6aef-4829-a75c-0eed45bab992) |
 
 !<img width="2343" height="5234" alt="Main" src="https://github.com/user-attachments/assets/776f01d1-ac92-4673-8942-7370186ed9b3" />
 
