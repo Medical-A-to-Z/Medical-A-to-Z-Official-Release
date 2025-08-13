@@ -1,5 +1,5 @@
 # **Medical A to Z**
-Medical A to Z™ is a forever-free medical dictionary android (phones, tablets, foldables from android 5.0 to 15.0) app created to aid students and researchers in medical fields in quickly finding definitions of prefixes, suffixes, and abbreviations used in medical fields.
+Medical A to Z™ is a forever-free medical dictionary Android (phones, tablets, foldables from Android 5.0 to 15.0) app created to aid students and researchers in medical fields in quickly finding definitions of prefixes, suffixes, and abbreviations used in medical fields.
 
 By using Medical A to Z, it is much easier to find prefixes and suffixes used in medical fields. Moreover, each prefix and suffix has a definition, several examples and their meanings, and read-aloud buttons to pronounce each word using the TTS engine of your phone! This provides medical researchers and students to quickly and efficiently find the information they need with minimal loss of time and focus.
 
@@ -15,7 +15,7 @@ With a clean and minimal UI optimized to keep your focus intact, Medical A to Z 
 <br /><br />
 
 # **Compatibility**
-Medical A to Z is an android app that supports android versions from 5.0 to 15.0, optimized for all android-based devices such as phones, tablets, and foldables.
+Medical A to Z is an Android app that supports Android versions from 5.0 to 15.0, optimized for a wide variety of devices such as phones, tablets, and foldables.
 
 <br /><br />
 
